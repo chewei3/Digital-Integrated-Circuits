@@ -1,0 +1,39 @@
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(468): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1328): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1332): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1334): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1343): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1353): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1357): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1376): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1380): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1382): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1392): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1397): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1402): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1406): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(1416): extended using "x" or "z"
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(1612): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(1782): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(1882): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(3943): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(3953): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(3977): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4047): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4075): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4103): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4130): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4157): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4184): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4231): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4265): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4321): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(4827): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(5084): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(5450): extended using "x" or "z"
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(5444): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(5653): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(6343): extended using "x" or "z"
+Warning (10268): Verilog HDL information at cycloneii_atoms.v(6338): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(6528): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at cycloneii_atoms.v(6639): extended using "x" or "z"

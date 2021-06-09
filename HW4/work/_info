@@ -1,0 +1,76 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\HW3
+T_opt
+V000SWB6:X<8SJPaD0X]I11
+04 11 4 work testfixture fast 0
+=1-02004c4f4f50-5ed674c2-38e-3688
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\modeltech64_10.1c\HW3
+T_opt1
+VdoUX666TmN^ZQdL1N7ZT_1
+04 12 4 work testfixture2 fast 0
+=1-02004c4f4f50-5ed66bcb-18d-2ac
+R1
+n@_opt1
+R2
+R3
+vRC4
+Vm9Od=Uo<o1?XU^`5zlNK`3
+r1
+!s85 0
+31
+Io85B2mNX2S6@OO]9L^iM<3
+Z4 dC:\modeltech64_10.1c\HW4
+w1591115340
+8C:/modeltech64_10.1c/HW4/RC4.v
+FC:/modeltech64_10.1c/HW4/RC4.v
+L0 2
+Z5 OL;L;10.1c;51
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@r@c4
+!s100 3XEHZ5i]<08[URh?k991k3
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/HW4/RC4.v|
+!s108 1591115388.997000
+!s107 C:/modeltech64_10.1c/HW4/RC4.v|
+!i10b 1
+vtestfixture
+VKBIIT=eCh7cJh[^JXBGX00
+r1
+31
+IVda6Y_oo=cJm@ai;[^DDd1
+R4
+w1587630988
+8C:/modeltech64_10.1c/HW4/testfixture.v
+FC:/modeltech64_10.1c/HW4/testfixture.v
+L0 7
+R5
+R6
+!s85 0
+!s100 e]O968zbcJDl=5LiDe7NM3
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/HW4/testfixture.v|
+!s108 1591115389.091000
+!s107 C:/modeltech64_10.1c/HW4/testfixture.v|
+!i10b 1
+vtestfixture2
+IGY?Ih1]LcaR]E@8B0bi5_2
+VYcJ:XJQbR?JSh66liEmgz2
+R4
+w1587153436
+8C:/modeltech64_10.1c/HW4/testfixture2.v
+FC:/modeltech64_10.1c/HW4/testfixture2.v
+L0 7
+R5
+r1
+31
+R6
+!s100 _M0fAPDjTlN_U`lD;;[BQ0
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/HW4/testfixture2.v|
+!i10b 1
+!s85 0
+!s108 1591115389.169000
+!s107 C:/modeltech64_10.1c/HW4/testfixture2.v|

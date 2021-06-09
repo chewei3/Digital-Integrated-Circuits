@@ -1,0 +1,79 @@
+C:/modeltech64_10.1c/HW3/testfixture.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/HW3/testfixture.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} C:/modeltech64_10.1c/HW3/cycloneii_atoms.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/HW3/cycloneii_atoms.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling UDP CYCLONEII_PRIM_DFFE
+-- Compiling UDP CYCLONEII_PRIM_DFFEAS
+-- Compiling UDP CYCLONEII_PRIM_DFFEAS_HIGH
+-- Compiling module cycloneii_dffe
+-- Compiling module cycloneii_latch
+-- Compiling module cycloneii_mux21
+-- Compiling module cycloneii_mux41
+-- Compiling module cycloneii_and1
+-- Compiling module cycloneii_and16
+-- Compiling module cycloneii_bmux21
+-- Compiling module cycloneii_b17mux21
+-- Compiling module cycloneii_nmux21
+-- Compiling module cycloneii_b5mux21
+-- Compiling module cycloneii_ram_pulse_generator
+-- Compiling module cycloneii_ram_register
+-- Compiling module cycloneii_ram_block
+-- Compiling module cycloneii_jtag
+-- Compiling module cycloneii_crcblock
+-- Compiling module cycloneii_asmiblock
+-- Compiling module cycloneii_m_cntr
+-- Compiling module cycloneii_n_cntr
+-- Compiling module cycloneii_scale_cntr
+-- Compiling module cycloneii_pll_reg
+-- Compiling module cycloneii_pll
+-- Compiling module cycloneii_routing_wire
+-- Compiling module cycloneii_lcell_ff
+-- Compiling module cycloneii_lcell_comb
+-- Compiling module cycloneii_asynch_io
+-- Compiling module cycloneii_io
+-- Compiling module cycloneii_clk_delay_ctrl
+-- Compiling module cycloneii_clk_delay_cal_ctrl
+-- Compiling module cycloneii_ena_reg
+-- Compiling module cycloneii_clkctrl
+-- Compiling module cycloneii_mac_data_reg
+-- Compiling module cycloneii_mac_sign_reg
+-- Compiling module cycloneii_mac_mult_internal
+-- Compiling module cycloneii_mac_mult
+-- Compiling module cycloneii_mac_out
+
+Top level modules:
+	cycloneii_latch
+	cycloneii_and1
+	cycloneii_and16
+	cycloneii_bmux21
+	cycloneii_b17mux21
+	cycloneii_nmux21
+	cycloneii_b5mux21
+	cycloneii_ram_block
+	cycloneii_jtag
+	cycloneii_crcblock
+	cycloneii_asmiblock
+	cycloneii_pll
+	cycloneii_routing_wire
+	cycloneii_lcell_ff
+	cycloneii_lcell_comb
+	cycloneii_io
+	cycloneii_clk_delay_ctrl
+	cycloneii_clk_delay_cal_ctrl
+	cycloneii_clkctrl
+	cycloneii_mac_mult
+	cycloneii_mac_out
+
+} {} {}} C:/modeltech64_10.1c/HW3/CS.v {1 {vlog -work work -vopt C:/modeltech64_10.1c/HW3/CS.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module CS
+
+Top level modules:
+	CS
+
+} {} {}}
